@@ -1,5 +1,5 @@
 # Dutch flag problem. basically sort an array of possible values of 0,1,2.
-```
+'''
 EXAMPLE I/P:
     2
     5
@@ -10,8 +10,7 @@ EXAMPLE I/P:
 EXAMPLE O/P:
     0 0 1 2 2
     0 0 1
-
-
+'''
 
 # Below implementation has a time complexity of O(n).
 # can be done by sorting with maintaing 3 pos in the array, but this is simpler.
