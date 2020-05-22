@@ -13,11 +13,6 @@ EXAMPLE O/P:
 
 
 
-
-# Below implementation has a time complexity of O(n) with constant space complexity.
-# can be done by sorting with maintaing 3 pos in the array, but this is simpler.
-
-# Dutch flag problem. basically sort an array of possible values of 0,1,2.
 # Below implementation has a time complexity of O(n).
 # can be done by sorting with maintaing 3 pos in the array, but this is simpler.
 
